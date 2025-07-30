@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+tensorflow
+matplotlib
+opencv
+numpy
+streamlit
